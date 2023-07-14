@@ -1,10 +1,10 @@
-# Yoo, I'm Hector 👋
+# Yo, I'm Hector 👋
 
 ![](https://komarev.com/ghpvc/?username=h-Benitez13&color=green)
 
-Software Developer who makes beeps go boop. I start the day with the goal to achieve problem solving, mentoring, and personal growth as a Software Developer. Having a non-traditional background has allowed me the unique perspective of seeing how important drive and determination can be. I continue my personal growth by helping aspiring developers reach their next level through guidance and support. I currently volunteer my time actively participating in alumni and self-taught/Bootcamp Grad communities. 
+Front-end Engineer who wants to keep learning on how applications work and live on the internet F-O-R-E-V-E-R. Finished my bootcamp May '19 and officially hooked on developing native/web applications. Truly believe coding has opened doors and paths I couldn't even imagine were available and accessible to someone with my background. Constantly trying to learn new tech/languages/frameworks and seeking to collab on a new project (hopefully the next MtnProject because I'd appreciate a better app please 😅)
 
-I love to connect with new Developers. If you have any questions, feel free to email me using the "Contact Me" links below 👇
+If you have any questions about engineering, the leap of faith into coding or anything climbing related - feel free to email me using the "Contact Me" links below 👇
 
 ### 🛠 I’m currently working on:
 - Writing internal technical documents for our tools and workflows
@@ -35,6 +35,9 @@ I love to connect with new Developers. If you have any questions, feel free to e
 
 ### 😄 Pronouns:
 - He/Him
+
+### ❔ Want more info about ya boi?
+Check out my personal website for tidbits and previous projects 👉 [(Click me!)](https://hecben.dev)
 
 <br>
 
