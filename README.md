@@ -6,11 +6,11 @@
 
 ## About Me
 
-Frontend Engineer at [Adora](https://www.adora.ai). I build product features by day and AI-powered developer tools by night. Bootcamp grad turned shipping engineer -- still convinced coding is the best career change I ever made. When I'm not at a keyboard, I'm probably at a crag.
+Frontend Engineer at [Adora](https://www.adora-ai.com). I build product features by day and AI-powered developer tools by night. Bootcamp grad turned shipping engineer -- still convinced coding is the best career change I ever made. When I'm not at a keyboard, I'm probably at a crag.
 
 ## 🛠 Currently Working On
 
-- Building product at [Adora](https://www.adora.ai)
+- Building product at [Adora](https://www.adora-ai.com)
 - AI/LLM developer tooling & workflows (OpenCode, Cursor configs)
 - Open source: [obsidian-adora-cortex](https://github.com/h-Benitez13/obsidian-adora-cortex) -- Obsidian plugin for syncing Granola meeting notes
 - Developer productivity starter kits ([ai-dev-starter-kit](https://github.com/h-Benitez13/ai-dev-starter-kit))
