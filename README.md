@@ -37,9 +37,11 @@ Frontend Engineer at [Adora](https://www.adora-ai.com). I build product features
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=h-Benitez13&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.demolab.com?user=h-Benitez13&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=h-Benitez13&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=h-Benitez13&theme=tokyonight&hide_border=true&layout=compact&border_radius=10" alt="Top Languages" />
 
 </div>
 
