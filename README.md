@@ -1,52 +1,68 @@
-# Yo, I'm Hector 👋
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=h-Benitez13&color=green)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+Hector+%F0%9F%91%8B;Frontend+Engineer+%40+Adora;Building+AI-powered+tools)](https://git.io/typing-svg)
 
-Front-end Engineer who wants to keep learning on how applications work and live on the internet F-O-R-E-V-E-R. Finished my bootcamp May '19 and officially hooked on developing native/web applications. Truly believe coding has opened doors and paths I couldn't even imagine were available and accessible to someone with my background. Constantly trying to learn new tech/languages/frameworks and seeking to collab on a new project (hopefully the next MtnProject because I'd appreciate a better app please 😅)
+</div>
 
-If you have any questions about engineering, the leap of faith into coding or anything climbing related - feel free to email me using the "Contact Me" links below 👇
+## About Me
 
-### 🛠 I’m currently working on:
-- Writing internal technical documents for our tools and workflows
-- Developing greenfield projects for the Department of Defense
-- Refactoring legacy code to ES6/modern frameworks
-- Fleshing out passion projects
+Frontend Engineer at [Adora](https://www.adora.ai). I build product features by day and AI-powered developer tools by night. Bootcamp grad turned shipping engineer -- still convinced coding is the best career change I ever made. When I'm not at a keyboard, I'm probably at a crag.
 
-### 🌱 I’m currently learning:
-- Typescript
-- VueJS
-- NextJS
+## 🛠 Currently Working On
 
-### 🥅 My goals for 2023 are:
-- Expand my network 
-- Continue to lead projects and convert projects to use Typescript
-- Increase my public commits to my personal projects
-- Continue climbing outdoors and send some gnar gnar lines
+- Building product at [Adora](https://www.adora.ai)
+- AI/LLM developer tooling & workflows (OpenCode, Cursor configs)
+- Open source: [obsidian-adora-cortex](https://github.com/h-Benitez13/obsidian-adora-cortex) -- Obsidian plugin for syncing Granola meeting notes
+- Developer productivity starter kits ([ai-dev-starter-kit](https://github.com/h-Benitez13/ai-dev-starter-kit))
 
-### 👾 Fun facts:
-- I am an avid rock climber
-- Love my dog Sora! She's a St. Bernadoodle
-- Plant dad in training
+## 🌱 Currently Learning
 
-### 💬 Ask me about:
-- Career changes into tech
-- Mentorship or coffee chats
-- Meet ups at the crag
+- AI/ML fundamentals & agent development (MCP, tool-use patterns)
+- Systems design & architecture
 
-### 😄 Pronouns:
-- He/Him
+## 🥅 Goals for 2026
 
-### ❔ Want more info about ya boi?
-Check out my personal website for tidbits and previous projects 👉 [(Click me!)](https://hecben.dev)
+- Go deeper on AI/LLM tooling
+- Ship more open source
 
-<br>
+## 💻 Tech Stack
 
-### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:h.benitez3711@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-benitez/)
-[![Github](https://img.shields.io/badge/-Github-purple?style=flat&logo=Github&logoColor=white)](https://github.com/h-Benitez13)
+<div align="center">
 
-<br>
+[![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,git,github&theme=dark)](https://skillicons.dev)
 
-### 👨‍💻 Progress:
-![Hec's Github Stats](https://github-readme-stats.vercel.app/api?username=h-Benitez13&theme=yeblu&show_icons=true&&count_private=true&hide_border=true)
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=h-Benitez13&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.demolab.com?user=h-Benitez13&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h-Benitez13/h-Benitez13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h-Benitez13/h-Benitez13/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/h-Benitez13/h-Benitez13/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:h.benitez3711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-benitez/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/h-Benitez13)
+
+</div>
